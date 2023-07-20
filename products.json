@@ -1,0 +1,190 @@
+{
+     "men":[
+          {
+               "id":"1",
+               "name":"Mens T-shirt",
+               "brand":"ABC",
+               "price":19.99,
+               "color":"Blue",
+               "size":"M",
+               "category":"Clothing"
+          },
+          {
+               "id":"2",
+               "name":"Mens T-shirt",
+               "brand":"ACB",
+               "price":20.99,
+               "color":"Red",
+               "size":"L",
+               "category":"Clothing"
+          },
+          {
+               "id":"3",
+               "name":"Mens T-shirt",
+               "brand":"ABC",
+               "price":34.99,
+               "color":"Blue",
+               "size":"XL",
+               "category":"Clothing"
+          },
+          {
+               "id":"4",
+               "name":"Mens T-shirt",
+               "brand":"LKA",
+               "price":25.99,
+               "color":"Blue",
+               "size":"S",
+               "category":"Clothing"
+          },
+          {
+               "id":"5",
+               "name":"Mens T-shirt",
+               "brand":"UHF",
+               "price":75.99,
+               "color":"Blue",
+               "size":"XL",
+               "category":"Clothing"
+          },
+          {
+               "id":"6",
+               "name":"Mens T-shirt",
+               "brand":"KMO",
+               "price":100.99,
+               "color":"Blue",
+               "size":"L",
+               "category":"Clothing"
+          },
+          {
+               "id":"7",
+               "name":"Mens T-shirt",
+               "brand":"ABC",
+               "price":21.99,
+               "color":"Blue",
+               "size":"L",
+               "category":"Clothing"
+          },
+          {
+               "id":"8",
+               "name":"Mens T-shirt",
+               "brand":"ABC",
+               "price":18.99,
+               "color":"Blue",
+               "size":"S",
+               "category":"Clothing"
+          },
+          {
+               "id":"9",
+               "name":"Mens T-shirt",
+               "brand":"ABC",
+               "price":17.99,
+               "color":"Blue",
+               "size":"M",
+               "category":"Clothing"
+          },
+          {
+               "id":"10",
+               "name":"Mens T-shirt",
+               "brand":"ABC",
+               "price":19.99,
+               "color":"Red",
+               "size":"S",
+               "category":"Clothing"
+          }],
+          
+               "women":[
+                    {
+                      
+               "id":"1",
+               "name":"Womens T-shirt",
+               "brand":"GBC",
+               "price":20.99,
+               "color":"Red",
+               "size":"L",
+               "category":"Clothing"   
+                    },
+                    {
+                      
+                         "id":"3",
+                         "name":"Womens T-shirt",
+                         "brand":"GBC",
+                         "price":21.99,
+                         "color":"Red",
+                         "size":"L",
+                         "category":"Clothing"   
+                    },
+                    {
+                      
+                                   "id":"3",
+                                   "name":"Womens T-shirt",
+                                   "brand":"GBC",
+                                   "price":21.99,
+                                   "color":"Red",
+                                   "size":"L",
+                                   "category":"Clothing"   
+                    },
+                    {
+                         "id":"4",
+                         "name":"Womens T-shirt",
+                         "brand":"ABC",
+                         "price":22.99,
+                         "color":"Red",
+                         "size":"M",
+                         "category":"Clothing"
+                    },
+                    {
+                         "id":"5",
+                         "name":"Womens T-shirt",
+                         "brand":"ABC",
+                         "price":18.99,
+                         "color":"Red",
+                         "size":"M",
+                         "category":"Clothing"
+                    },
+                    {
+                         "id":"6",
+                         "name":"Womens T-shirt",
+                         "brand":"ABC",
+                         "price":21.99,
+                         "color":"Red",
+                         "size":"S",
+                         "category":"Clothing"
+                    },
+                    {
+                         "id":"7",
+                         "name":"Womens T-shirt",
+                         "brand":"ABC",
+                         "price":21.99,
+                         "color":"Red",
+                         "size":"XL",
+                         "category":"Clothing"
+                    },
+                    {
+                         "id":"8",
+                         "name":"Womens T-shirt",
+                         "brand":"ABC",
+                         "price":19.99,
+                         "color":"Red",
+                         "size":"S",
+                         "category":"Clothing"
+                    },
+                    {
+                         "id":"9",
+                         "name":"Womens T-shirt",
+                         "brand":"ABC",
+                         "price":19.99,
+                         "color":"Red",
+                         "size":"S",
+                         "category":"Clothing"
+                    },
+                    {
+                         "id":"10",
+                         "name":"Womens T-shirt",
+                         "brand":"ABC",
+                         "price":14.99,
+                         "color":"Red",
+                         "size":"S",
+                         "category":"Clothing"
+                    }
+               ]
+          
+}  
